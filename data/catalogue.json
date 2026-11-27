@@ -1,0 +1,1402 @@
+[
+ {
+  "product_id": "product_0",
+  "category": "electronics",
+  "price": 36.62,
+  "rating": 3.2,
+  "review_count": 615
+ },
+ {
+  "product_id": "product_1",
+  "category": "fashion",
+  "price": 36.01,
+  "rating": 4.5,
+  "review_count": 81
+ },
+ {
+  "product_id": "product_2",
+  "category": "home",
+  "price": 44.22,
+  "rating": 4.0,
+  "review_count": 1941
+ },
+ {
+  "product_id": "product_3",
+  "category": "beauty",
+  "price": 18.86,
+  "rating": 4.8,
+  "review_count": 1458
+ },
+ {
+  "product_id": "product_4",
+  "category": "sports",
+  "price": 20.11,
+  "rating": 2.5,
+  "review_count": 788
+ },
+ {
+  "product_id": "product_5",
+  "category": "books",
+  "price": 27.8,
+  "rating": 4.3,
+  "review_count": 1714
+ },
+ {
+  "product_id": "product_6",
+  "category": "electronics",
+  "price": 18.43,
+  "rating": 4.7,
+  "review_count": 44
+ },
+ {
+  "product_id": "product_7",
+  "category": "fashion",
+  "price": 46.03,
+  "rating": 3.6,
+  "review_count": 1082
+ },
+ {
+  "product_id": "product_8",
+  "category": "home",
+  "price": 29.88,
+  "rating": 2.8,
+  "review_count": 16
+ },
+ {
+  "product_id": "product_9",
+  "category": "beauty",
+  "price": 43.87,
+  "rating": 4.0,
+  "review_count": 1341
+ },
+ {
+  "product_id": "product_10",
+  "category": "sports",
+  "price": 35.7,
+  "rating": 5.0,
+  "review_count": 1609
+ },
+ {
+  "product_id": "product_11",
+  "category": "books",
+  "price": 22.96,
+  "rating": 4.1,
+  "review_count": 1961
+ },
+ {
+  "product_id": "product_12",
+  "category": "electronics",
+  "price": 14.77,
+  "rating": 3.5,
+  "review_count": 1750
+ },
+ {
+  "product_id": "product_13",
+  "category": "fashion",
+  "price": 51.04,
+  "rating": 3.8,
+  "review_count": 270
+ },
+ {
+  "product_id": "product_14",
+  "category": "home",
+  "price": 44.0,
+  "rating": 3.7,
+  "review_count": 1437
+ },
+ {
+  "product_id": "product_15",
+  "category": "beauty",
+  "price": 62.0,
+  "rating": 3.4,
+  "review_count": 1778
+ },
+ {
+  "product_id": "product_16",
+  "category": "sports",
+  "price": 12.09,
+  "rating": 3.3,
+  "review_count": 1439
+ },
+ {
+  "product_id": "product_17",
+  "category": "books",
+  "price": 61.87,
+  "rating": 3.5,
+  "review_count": 1188
+ },
+ {
+  "product_id": "product_18",
+  "category": "electronics",
+  "price": 25.76,
+  "rating": 3.1,
+  "review_count": 1428
+ },
+ {
+  "product_id": "product_19",
+  "category": "fashion",
+  "price": 139.95,
+  "rating": 4.6,
+  "review_count": 1246
+ },
+ {
+  "product_id": "product_20",
+  "category": "home",
+  "price": 44.08,
+  "rating": 3.1,
+  "review_count": 1583
+ },
+ {
+  "product_id": "product_21",
+  "category": "beauty",
+  "price": 55.99,
+  "rating": 3.3,
+  "review_count": 1752
+ },
+ {
+  "product_id": "product_22",
+  "category": "sports",
+  "price": 45.43,
+  "rating": 3.6,
+  "review_count": 1789
+ },
+ {
+  "product_id": "product_23",
+  "category": "books",
+  "price": 12.84,
+  "rating": 2.6,
+  "review_count": 1592
+ },
+ {
+  "product_id": "product_24",
+  "category": "electronics",
+  "price": 23.36,
+  "rating": 3.0,
+  "review_count": 1893
+ },
+ {
+  "product_id": "product_25",
+  "category": "fashion",
+  "price": 22.27,
+  "rating": 3.2,
+  "review_count": 181
+ },
+ {
+  "product_id": "product_26",
+  "category": "home",
+  "price": 26.93,
+  "rating": 3.0,
+  "review_count": 1516
+ },
+ {
+  "product_id": "product_27",
+  "category": "beauty",
+  "price": 54.96,
+  "rating": 2.8,
+  "review_count": 1884
+ },
+ {
+  "product_id": "product_28",
+  "category": "sports",
+  "price": 34.52,
+  "rating": 4.8,
+  "review_count": 819
+ },
+ {
+  "product_id": "product_29",
+  "category": "books",
+  "price": 20.2,
+  "rating": 3.7,
+  "review_count": 880
+ },
+ {
+  "product_id": "product_30",
+  "category": "electronics",
+  "price": 52.4,
+  "rating": 4.1,
+  "review_count": 699
+ },
+ {
+  "product_id": "product_31",
+  "category": "fashion",
+  "price": 19.51,
+  "rating": 3.7,
+  "review_count": 1990
+ },
+ {
+  "product_id": "product_32",
+  "category": "home",
+  "price": 34.44,
+  "rating": 3.7,
+  "review_count": 840
+ },
+ {
+  "product_id": "product_33",
+  "category": "beauty",
+  "price": 19.95,
+  "rating": 3.5,
+  "review_count": 1058
+ },
+ {
+  "product_id": "product_34",
+  "category": "sports",
+  "price": 13.83,
+  "rating": 4.3,
+  "review_count": 1848
+ },
+ {
+  "product_id": "product_35",
+  "category": "books",
+  "price": 52.72,
+  "rating": 4.3,
+  "review_count": 1864
+ },
+ {
+  "product_id": "product_36",
+  "category": "electronics",
+  "price": 18.11,
+  "rating": 4.9,
+  "review_count": 1742
+ },
+ {
+  "product_id": "product_37",
+  "category": "fashion",
+  "price": 116.69,
+  "rating": 5.0,
+  "review_count": 29
+ },
+ {
+  "product_id": "product_38",
+  "category": "home",
+  "price": 18.39,
+  "rating": 2.9,
+  "review_count": 1033
+ },
+ {
+  "product_id": "product_39",
+  "category": "beauty",
+  "price": 37.67,
+  "rating": 4.6,
+  "review_count": 1945
+ },
+ {
+  "product_id": "product_40",
+  "category": "sports",
+  "price": 11.33,
+  "rating": 3.1,
+  "review_count": 1785
+ },
+ {
+  "product_id": "product_41",
+  "category": "books",
+  "price": 73.1,
+  "rating": 3.2,
+  "review_count": 1603
+ },
+ {
+  "product_id": "product_42",
+  "category": "electronics",
+  "price": 14.02,
+  "rating": 3.6,
+  "review_count": 297
+ },
+ {
+  "product_id": "product_43",
+  "category": "fashion",
+  "price": 18.72,
+  "rating": 4.3,
+  "review_count": 1862
+ },
+ {
+  "product_id": "product_44",
+  "category": "home",
+  "price": 5.47,
+  "rating": 2.6,
+  "review_count": 1854
+ },
+ {
+  "product_id": "product_45",
+  "category": "beauty",
+  "price": 36.14,
+  "rating": 4.4,
+  "review_count": 1438
+ },
+ {
+  "product_id": "product_46",
+  "category": "sports",
+  "price": 38.93,
+  "rating": 4.8,
+  "review_count": 535
+ },
+ {
+  "product_id": "product_47",
+  "category": "books",
+  "price": 103.21,
+  "rating": 2.7,
+  "review_count": 132
+ },
+ {
+  "product_id": "product_48",
+  "category": "electronics",
+  "price": 65.04,
+  "rating": 3.6,
+  "review_count": 1746
+ },
+ {
+  "product_id": "product_49",
+  "category": "fashion",
+  "price": 65.06,
+  "rating": 3.1,
+  "review_count": 1932
+ },
+ {
+  "product_id": "product_50",
+  "category": "home",
+  "price": 10.58,
+  "rating": 4.7,
+  "review_count": 437
+ },
+ {
+  "product_id": "product_51",
+  "category": "beauty",
+  "price": 10.61,
+  "rating": 4.0,
+  "review_count": 451
+ },
+ {
+  "product_id": "product_52",
+  "category": "sports",
+  "price": 21.01,
+  "rating": 4.5,
+  "review_count": 122
+ },
+ {
+  "product_id": "product_53",
+  "category": "books",
+  "price": 41.05,
+  "rating": 3.5,
+  "review_count": 1120
+ },
+ {
+  "product_id": "product_54",
+  "category": "electronics",
+  "price": 95.39,
+  "rating": 4.1,
+  "review_count": 1420
+ },
+ {
+  "product_id": "product_55",
+  "category": "fashion",
+  "price": 101.68,
+  "rating": 3.9,
+  "review_count": 1918
+ },
+ {
+  "product_id": "product_56",
+  "category": "home",
+  "price": 4.99,
+  "rating": 4.6,
+  "review_count": 1889
+ },
+ {
+  "product_id": "product_57",
+  "category": "beauty",
+  "price": 46.48,
+  "rating": 4.8,
+  "review_count": 290
+ },
+ {
+  "product_id": "product_58",
+  "category": "sports",
+  "price": 44.98,
+  "rating": 4.6,
+  "review_count": 1579
+ },
+ {
+  "product_id": "product_59",
+  "category": "books",
+  "price": 7.23,
+  "rating": 2.5,
+  "review_count": 830
+ },
+ {
+  "product_id": "product_60",
+  "category": "electronics",
+  "price": 17.41,
+  "rating": 2.7,
+  "review_count": 517
+ },
+ {
+  "product_id": "product_61",
+  "category": "fashion",
+  "price": 35.4,
+  "rating": 4.3,
+  "review_count": 1305
+ },
+ {
+  "product_id": "product_62",
+  "category": "home",
+  "price": 22.01,
+  "rating": 2.8,
+  "review_count": 73
+ },
+ {
+  "product_id": "product_63",
+  "category": "beauty",
+  "price": 42.12,
+  "rating": 3.5,
+  "review_count": 1729
+ },
+ {
+  "product_id": "product_64",
+  "category": "sports",
+  "price": 12.83,
+  "rating": 3.7,
+  "review_count": 983
+ },
+ {
+  "product_id": "product_65",
+  "category": "books",
+  "price": 26.1,
+  "rating": 3.3,
+  "review_count": 1952
+ },
+ {
+  "product_id": "product_66",
+  "category": "electronics",
+  "price": 27.41,
+  "rating": 4.7,
+  "review_count": 1277
+ },
+ {
+  "product_id": "product_67",
+  "category": "fashion",
+  "price": 35.49,
+  "rating": 3.4,
+  "review_count": 1762
+ },
+ {
+  "product_id": "product_68",
+  "category": "home",
+  "price": 123.7,
+  "rating": 3.3,
+  "review_count": 127
+ },
+ {
+  "product_id": "product_69",
+  "category": "beauty",
+  "price": 34.4,
+  "rating": 4.5,
+  "review_count": 365
+ },
+ {
+  "product_id": "product_70",
+  "category": "sports",
+  "price": 44.56,
+  "rating": 4.9,
+  "review_count": 1132
+ },
+ {
+  "product_id": "product_71",
+  "category": "books",
+  "price": 10.18,
+  "rating": 4.7,
+  "review_count": 1851
+ },
+ {
+  "product_id": "product_72",
+  "category": "electronics",
+  "price": 7.04,
+  "rating": 2.9,
+  "review_count": 209
+ },
+ {
+  "product_id": "product_73",
+  "category": "fashion",
+  "price": 14.38,
+  "rating": 2.9,
+  "review_count": 1340
+ },
+ {
+  "product_id": "product_74",
+  "category": "home",
+  "price": 28.21,
+  "rating": 4.8,
+  "review_count": 1155
+ },
+ {
+  "product_id": "product_75",
+  "category": "beauty",
+  "price": 22.62,
+  "rating": 3.0,
+  "review_count": 1122
+ },
+ {
+  "product_id": "product_76",
+  "category": "sports",
+  "price": 43.87,
+  "rating": 3.8,
+  "review_count": 613
+ },
+ {
+  "product_id": "product_77",
+  "category": "books",
+  "price": 11.63,
+  "rating": 3.9,
+  "review_count": 177
+ },
+ {
+  "product_id": "product_78",
+  "category": "electronics",
+  "price": 31.8,
+  "rating": 4.4,
+  "review_count": 1483
+ },
+ {
+  "product_id": "product_79",
+  "category": "fashion",
+  "price": 11.87,
+  "rating": 3.3,
+  "review_count": 1956
+ },
+ {
+  "product_id": "product_80",
+  "category": "home",
+  "price": 22.69,
+  "rating": 4.2,
+  "review_count": 1159
+ },
+ {
+  "product_id": "product_81",
+  "category": "beauty",
+  "price": 20.27,
+  "rating": 4.0,
+  "review_count": 390
+ },
+ {
+  "product_id": "product_82",
+  "category": "sports",
+  "price": 59.35,
+  "rating": 2.7,
+  "review_count": 1005
+ },
+ {
+  "product_id": "product_83",
+  "category": "books",
+  "price": 310.02,
+  "rating": 2.9,
+  "review_count": 999
+ },
+ {
+  "product_id": "product_84",
+  "category": "electronics",
+  "price": 37.74,
+  "rating": 2.7,
+  "review_count": 1418
+ },
+ {
+  "product_id": "product_85",
+  "category": "fashion",
+  "price": 99.72,
+  "rating": 3.5,
+  "review_count": 1451
+ },
+ {
+  "product_id": "product_86",
+  "category": "home",
+  "price": 210.25,
+  "rating": 3.7,
+  "review_count": 1199
+ },
+ {
+  "product_id": "product_87",
+  "category": "beauty",
+  "price": 28.32,
+  "rating": 4.8,
+  "review_count": 1825
+ },
+ {
+  "product_id": "product_88",
+  "category": "sports",
+  "price": 32.92,
+  "rating": 2.7,
+  "review_count": 259
+ },
+ {
+  "product_id": "product_89",
+  "category": "books",
+  "price": 384.84,
+  "rating": 4.1,
+  "review_count": 140
+ },
+ {
+  "product_id": "product_90",
+  "category": "electronics",
+  "price": 6.6,
+  "rating": 2.9,
+  "review_count": 520
+ },
+ {
+  "product_id": "product_91",
+  "category": "fashion",
+  "price": 22.2,
+  "rating": 4.3,
+  "review_count": 1347
+ },
+ {
+  "product_id": "product_92",
+  "category": "home",
+  "price": 73.84,
+  "rating": 3.8,
+  "review_count": 1374
+ },
+ {
+  "product_id": "product_93",
+  "category": "beauty",
+  "price": 14.82,
+  "rating": 3.9,
+  "review_count": 1579
+ },
+ {
+  "product_id": "product_94",
+  "category": "sports",
+  "price": 10.19,
+  "rating": 4.5,
+  "review_count": 1908
+ },
+ {
+  "product_id": "product_95",
+  "category": "books",
+  "price": 12.12,
+  "rating": 3.0,
+  "review_count": 977
+ },
+ {
+  "product_id": "product_96",
+  "category": "electronics",
+  "price": 8.05,
+  "rating": 4.5,
+  "review_count": 1294
+ },
+ {
+  "product_id": "product_97",
+  "category": "fashion",
+  "price": 13.28,
+  "rating": 4.0,
+  "review_count": 962
+ },
+ {
+  "product_id": "product_98",
+  "category": "home",
+  "price": 25.11,
+  "rating": 4.8,
+  "review_count": 1765
+ },
+ {
+  "product_id": "product_99",
+  "category": "beauty",
+  "price": 135.44,
+  "rating": 3.5,
+  "review_count": 130
+ },
+ {
+  "product_id": "product_100",
+  "category": "sports",
+  "price": 24.4,
+  "rating": 5.0,
+  "review_count": 727
+ },
+ {
+  "product_id": "product_101",
+  "category": "books",
+  "price": 12.47,
+  "rating": 3.6,
+  "review_count": 1562
+ },
+ {
+  "product_id": "product_102",
+  "category": "electronics",
+  "price": 32.1,
+  "rating": 2.7,
+  "review_count": 1636
+ },
+ {
+  "product_id": "product_103",
+  "category": "fashion",
+  "price": 63.04,
+  "rating": 4.5,
+  "review_count": 1416
+ },
+ {
+  "product_id": "product_104",
+  "category": "home",
+  "price": 19.41,
+  "rating": 4.5,
+  "review_count": 1429
+ },
+ {
+  "product_id": "product_105",
+  "category": "beauty",
+  "price": 216.3,
+  "rating": 3.5,
+  "review_count": 450
+ },
+ {
+  "product_id": "product_106",
+  "category": "sports",
+  "price": 23.05,
+  "rating": 2.8,
+  "review_count": 1849
+ },
+ {
+  "product_id": "product_107",
+  "category": "books",
+  "price": 32.96,
+  "rating": 4.4,
+  "review_count": 813
+ },
+ {
+  "product_id": "product_108",
+  "category": "electronics",
+  "price": 20.32,
+  "rating": 2.8,
+  "review_count": 782
+ },
+ {
+  "product_id": "product_109",
+  "category": "fashion",
+  "price": 17.08,
+  "rating": 5.0,
+  "review_count": 1407
+ },
+ {
+  "product_id": "product_110",
+  "category": "home",
+  "price": 76.17,
+  "rating": 3.6,
+  "review_count": 618
+ },
+ {
+  "product_id": "product_111",
+  "category": "beauty",
+  "price": 15.17,
+  "rating": 3.8,
+  "review_count": 1959
+ },
+ {
+  "product_id": "product_112",
+  "category": "sports",
+  "price": 34.05,
+  "rating": 4.8,
+  "review_count": 383
+ },
+ {
+  "product_id": "product_113",
+  "category": "books",
+  "price": 103.33,
+  "rating": 4.3,
+  "review_count": 952
+ },
+ {
+  "product_id": "product_114",
+  "category": "electronics",
+  "price": 24.54,
+  "rating": 4.4,
+  "review_count": 1182
+ },
+ {
+  "product_id": "product_115",
+  "category": "fashion",
+  "price": 3.16,
+  "rating": 3.5,
+  "review_count": 1141
+ },
+ {
+  "product_id": "product_116",
+  "category": "home",
+  "price": 14.06,
+  "rating": 3.7,
+  "review_count": 29
+ },
+ {
+  "product_id": "product_117",
+  "category": "beauty",
+  "price": 59.49,
+  "rating": 4.0,
+  "review_count": 857
+ },
+ {
+  "product_id": "product_118",
+  "category": "sports",
+  "price": 10.51,
+  "rating": 4.8,
+  "review_count": 592
+ },
+ {
+  "product_id": "product_119",
+  "category": "books",
+  "price": 15.38,
+  "rating": 4.7,
+  "review_count": 1368
+ },
+ {
+  "product_id": "product_120",
+  "category": "electronics",
+  "price": 26.22,
+  "rating": 2.6,
+  "review_count": 241
+ },
+ {
+  "product_id": "product_121",
+  "category": "fashion",
+  "price": 64.48,
+  "rating": 4.6,
+  "review_count": 1422
+ },
+ {
+  "product_id": "product_122",
+  "category": "home",
+  "price": 55.13,
+  "rating": 4.5,
+  "review_count": 1043
+ },
+ {
+  "product_id": "product_123",
+  "category": "beauty",
+  "price": 6.58,
+  "rating": 2.9,
+  "review_count": 1994
+ },
+ {
+  "product_id": "product_124",
+  "category": "sports",
+  "price": 40.79,
+  "rating": 4.4,
+  "review_count": 1576
+ },
+ {
+  "product_id": "product_125",
+  "category": "books",
+  "price": 20.0,
+  "rating": 2.8,
+  "review_count": 878
+ },
+ {
+  "product_id": "product_126",
+  "category": "electronics",
+  "price": 46.05,
+  "rating": 3.2,
+  "review_count": 1957
+ },
+ {
+  "product_id": "product_127",
+  "category": "fashion",
+  "price": 88.57,
+  "rating": 3.9,
+  "review_count": 381
+ },
+ {
+  "product_id": "product_128",
+  "category": "home",
+  "price": 75.5,
+  "rating": 4.7,
+  "review_count": 1862
+ },
+ {
+  "product_id": "product_129",
+  "category": "beauty",
+  "price": 26.26,
+  "rating": 3.3,
+  "review_count": 172
+ },
+ {
+  "product_id": "product_130",
+  "category": "sports",
+  "price": 56.83,
+  "rating": 4.2,
+  "review_count": 454
+ },
+ {
+  "product_id": "product_131",
+  "category": "books",
+  "price": 13.71,
+  "rating": 4.9,
+  "review_count": 725
+ },
+ {
+  "product_id": "product_132",
+  "category": "electronics",
+  "price": 71.23,
+  "rating": 3.8,
+  "review_count": 1111
+ },
+ {
+  "product_id": "product_133",
+  "category": "fashion",
+  "price": 24.51,
+  "rating": 4.7,
+  "review_count": 48
+ },
+ {
+  "product_id": "product_134",
+  "category": "home",
+  "price": 26.23,
+  "rating": 3.9,
+  "review_count": 1334
+ },
+ {
+  "product_id": "product_135",
+  "category": "beauty",
+  "price": 55.44,
+  "rating": 2.5,
+  "review_count": 444
+ },
+ {
+  "product_id": "product_136",
+  "category": "sports",
+  "price": 44.12,
+  "rating": 4.3,
+  "review_count": 1922
+ },
+ {
+  "product_id": "product_137",
+  "category": "books",
+  "price": 14.04,
+  "rating": 2.7,
+  "review_count": 1292
+ },
+ {
+  "product_id": "product_138",
+  "category": "electronics",
+  "price": 8.48,
+  "rating": 3.9,
+  "review_count": 1220
+ },
+ {
+  "product_id": "product_139",
+  "category": "fashion",
+  "price": 106.73,
+  "rating": 4.8,
+  "review_count": 788
+ },
+ {
+  "product_id": "product_140",
+  "category": "home",
+  "price": 27.16,
+  "rating": 4.0,
+  "review_count": 1391
+ },
+ {
+  "product_id": "product_141",
+  "category": "beauty",
+  "price": 32.59,
+  "rating": 4.3,
+  "review_count": 1392
+ },
+ {
+  "product_id": "product_142",
+  "category": "sports",
+  "price": 54.47,
+  "rating": 3.4,
+  "review_count": 597
+ },
+ {
+  "product_id": "product_143",
+  "category": "books",
+  "price": 24.14,
+  "rating": 4.0,
+  "review_count": 477
+ },
+ {
+  "product_id": "product_144",
+  "category": "electronics",
+  "price": 107.75,
+  "rating": 3.1,
+  "review_count": 451
+ },
+ {
+  "product_id": "product_145",
+  "category": "fashion",
+  "price": 39.45,
+  "rating": 3.9,
+  "review_count": 145
+ },
+ {
+  "product_id": "product_146",
+  "category": "home",
+  "price": 73.31,
+  "rating": 4.9,
+  "review_count": 1966
+ },
+ {
+  "product_id": "product_147",
+  "category": "beauty",
+  "price": 70.63,
+  "rating": 3.5,
+  "review_count": 214
+ },
+ {
+  "product_id": "product_148",
+  "category": "sports",
+  "price": 17.2,
+  "rating": 4.4,
+  "review_count": 828
+ },
+ {
+  "product_id": "product_149",
+  "category": "books",
+  "price": 19.72,
+  "rating": 2.7,
+  "review_count": 1287
+ },
+ {
+  "product_id": "product_150",
+  "category": "electronics",
+  "price": 63.37,
+  "rating": 3.8,
+  "review_count": 1666
+ },
+ {
+  "product_id": "product_151",
+  "category": "fashion",
+  "price": 59.58,
+  "rating": 3.0,
+  "review_count": 853
+ },
+ {
+  "product_id": "product_152",
+  "category": "home",
+  "price": 13.8,
+  "rating": 2.9,
+  "review_count": 816
+ },
+ {
+  "product_id": "product_153",
+  "category": "beauty",
+  "price": 58.86,
+  "rating": 3.5,
+  "review_count": 1704
+ },
+ {
+  "product_id": "product_154",
+  "category": "sports",
+  "price": 83.93,
+  "rating": 4.6,
+  "review_count": 316
+ },
+ {
+  "product_id": "product_155",
+  "category": "books",
+  "price": 16.56,
+  "rating": 4.4,
+  "review_count": 1361
+ },
+ {
+  "product_id": "product_156",
+  "category": "electronics",
+  "price": 17.52,
+  "rating": 4.8,
+  "review_count": 1113
+ },
+ {
+  "product_id": "product_157",
+  "category": "fashion",
+  "price": 20.16,
+  "rating": 4.4,
+  "review_count": 1645
+ },
+ {
+  "product_id": "product_158",
+  "category": "home",
+  "price": 44.43,
+  "rating": 3.6,
+  "review_count": 1900
+ },
+ {
+  "product_id": "product_159",
+  "category": "beauty",
+  "price": 28.06,
+  "rating": 4.8,
+  "review_count": 793
+ },
+ {
+  "product_id": "product_160",
+  "category": "sports",
+  "price": 50.65,
+  "rating": 2.5,
+  "review_count": 1869
+ },
+ {
+  "product_id": "product_161",
+  "category": "books",
+  "price": 13.79,
+  "rating": 3.2,
+  "review_count": 645
+ },
+ {
+  "product_id": "product_162",
+  "category": "electronics",
+  "price": 47.24,
+  "rating": 2.9,
+  "review_count": 1882
+ },
+ {
+  "product_id": "product_163",
+  "category": "fashion",
+  "price": 10.48,
+  "rating": 4.3,
+  "review_count": 1172
+ },
+ {
+  "product_id": "product_164",
+  "category": "home",
+  "price": 11.32,
+  "rating": 3.9,
+  "review_count": 1337
+ },
+ {
+  "product_id": "product_165",
+  "category": "beauty",
+  "price": 83.16,
+  "rating": 4.4,
+  "review_count": 1966
+ },
+ {
+  "product_id": "product_166",
+  "category": "sports",
+  "price": 37.59,
+  "rating": 4.1,
+  "review_count": 282
+ },
+ {
+  "product_id": "product_167",
+  "category": "books",
+  "price": 25.6,
+  "rating": 3.1,
+  "review_count": 712
+ },
+ {
+  "product_id": "product_168",
+  "category": "electronics",
+  "price": 18.03,
+  "rating": 2.9,
+  "review_count": 431
+ },
+ {
+  "product_id": "product_169",
+  "category": "fashion",
+  "price": 61.3,
+  "rating": 4.2,
+  "review_count": 1154
+ },
+ {
+  "product_id": "product_170",
+  "category": "home",
+  "price": 29.42,
+  "rating": 2.8,
+  "review_count": 589
+ },
+ {
+  "product_id": "product_171",
+  "category": "beauty",
+  "price": 23.71,
+  "rating": 4.0,
+  "review_count": 1249
+ },
+ {
+  "product_id": "product_172",
+  "category": "sports",
+  "price": 78.76,
+  "rating": 4.0,
+  "review_count": 1603
+ },
+ {
+  "product_id": "product_173",
+  "category": "books",
+  "price": 25.05,
+  "rating": 3.7,
+  "review_count": 1465
+ },
+ {
+  "product_id": "product_174",
+  "category": "electronics",
+  "price": 29.23,
+  "rating": 3.1,
+  "review_count": 1008
+ },
+ {
+  "product_id": "product_175",
+  "category": "fashion",
+  "price": 157.75,
+  "rating": 3.0,
+  "review_count": 1390
+ },
+ {
+  "product_id": "product_176",
+  "category": "home",
+  "price": 71.06,
+  "rating": 4.2,
+  "review_count": 588
+ },
+ {
+  "product_id": "product_177",
+  "category": "beauty",
+  "price": 78.6,
+  "rating": 3.7,
+  "review_count": 1062
+ },
+ {
+  "product_id": "product_178",
+  "category": "sports",
+  "price": 98.11,
+  "rating": 3.1,
+  "review_count": 636
+ },
+ {
+  "product_id": "product_179",
+  "category": "books",
+  "price": 60.3,
+  "rating": 4.6,
+  "review_count": 312
+ },
+ {
+  "product_id": "product_180",
+  "category": "electronics",
+  "price": 61.3,
+  "rating": 3.4,
+  "review_count": 741
+ },
+ {
+  "product_id": "product_181",
+  "category": "fashion",
+  "price": 92.46,
+  "rating": 4.8,
+  "review_count": 1151
+ },
+ {
+  "product_id": "product_182",
+  "category": "home",
+  "price": 36.06,
+  "rating": 2.9,
+  "review_count": 1269
+ },
+ {
+  "product_id": "product_183",
+  "category": "beauty",
+  "price": 42.15,
+  "rating": 2.6,
+  "review_count": 1753
+ },
+ {
+  "product_id": "product_184",
+  "category": "sports",
+  "price": 65.07,
+  "rating": 4.1,
+  "review_count": 119
+ },
+ {
+  "product_id": "product_185",
+  "category": "books",
+  "price": 17.07,
+  "rating": 3.0,
+  "review_count": 1577
+ },
+ {
+  "product_id": "product_186",
+  "category": "electronics",
+  "price": 84.6,
+  "rating": 3.8,
+  "review_count": 296
+ },
+ {
+  "product_id": "product_187",
+  "category": "fashion",
+  "price": 11.73,
+  "rating": 2.7,
+  "review_count": 1631
+ },
+ {
+  "product_id": "product_188",
+  "category": "home",
+  "price": 14.31,
+  "rating": 3.0,
+  "review_count": 909
+ },
+ {
+  "product_id": "product_189",
+  "category": "beauty",
+  "price": 43.19,
+  "rating": 4.6,
+  "review_count": 134
+ },
+ {
+  "product_id": "product_190",
+  "category": "sports",
+  "price": 29.83,
+  "rating": 3.2,
+  "review_count": 340
+ },
+ {
+  "product_id": "product_191",
+  "category": "books",
+  "price": 4.46,
+  "rating": 3.9,
+  "review_count": 554
+ },
+ {
+  "product_id": "product_192",
+  "category": "electronics",
+  "price": 28.44,
+  "rating": 3.4,
+  "review_count": 1224
+ },
+ {
+  "product_id": "product_193",
+  "category": "fashion",
+  "price": 101.57,
+  "rating": 3.9,
+  "review_count": 1274
+ },
+ {
+  "product_id": "product_194",
+  "category": "home",
+  "price": 27.05,
+  "rating": 4.1,
+  "review_count": 631
+ },
+ {
+  "product_id": "product_195",
+  "category": "beauty",
+  "price": 13.96,
+  "rating": 3.3,
+  "review_count": 1183
+ },
+ {
+  "product_id": "product_196",
+  "category": "sports",
+  "price": 51.3,
+  "rating": 4.0,
+  "review_count": 1234
+ },
+ {
+  "product_id": "product_197",
+  "category": "books",
+  "price": 35.71,
+  "rating": 3.9,
+  "review_count": 1221
+ },
+ {
+  "product_id": "product_198",
+  "category": "electronics",
+  "price": 12.92,
+  "rating": 3.6,
+  "review_count": 421
+ },
+ {
+  "product_id": "product_199",
+  "category": "fashion",
+  "price": 97.94,
+  "rating": 4.7,
+  "review_count": 1686
+ }
+]
